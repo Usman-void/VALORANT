@@ -1,2 +1,7 @@
 # VALORANT
-this the game Valorant
+this the game Valorant  
+##Agent Names#
+**Jett**  
+**Omen**  
+**Chamber**  
+
