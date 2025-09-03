@@ -1,5 +1,5 @@
 # VALORANT
-this the game Valorant  
+the game Valorant  
 ## Agent Names ##   
 - Jett
 - Omen
